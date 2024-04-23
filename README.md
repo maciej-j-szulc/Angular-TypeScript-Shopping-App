@@ -1,4 +1,4 @@
-#Recipe application
+# Recipe Application
 
 Application for saving, storing, and fetching data about recipes and ingredient lists. Technology: Angular, bootstrap, TypeScript. For back-end: firebase.
 
